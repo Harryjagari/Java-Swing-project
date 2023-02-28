@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransportGUI
+comment1.params=
+comment1.target=void\ AutoGUI()
+comment1.text=\r\nThis\ method\ is\ made\ to\ make\ the\ GUI\ of\ Auto\ Rickshaw\ and\ has\ one\ JFrame,\r\n2\ JPanel,14\ JLabel,12\ JTextFields,3\ JComboBox\ and\ 5\ buttons\ in\ it.\ \r\n
+comment2.params=
+comment2.target=void\ ScotterGUI()
+comment2.text=\r\nThis\ method\ is\ made\ to\ make\ the\ GUI\ for\ Electric\ Scotter\ and\ has\ one\ JFrame,\r\n2\ JPanel,\ 13\ JLabel,12\ JTextFields,6\ JButtons\ in\ it\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

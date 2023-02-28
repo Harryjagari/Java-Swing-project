@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ The\ Vehicle\ class\ has\ five\ attributes\:vehiclename,vehicleweight,vehiclespeed,\r\n\ vehiclecolor,vehicleid.\r\n\ The\ constructors\ accepts\ four\ parameters.The\ values\ of\ these\ parameters\ are\ assigned\ \r\n\ the\ corressponding\ parameter\ values.Each\ attribute\ has\ a\ corresponding\ accessor\ method.\r\n\ There\ is\ setters\ method\ for\ vehiclespeed\ which\ accepts\ vehiclespeed\ as\ parameter\ and\r\n\ vehiclecolor\ which\ accepts\ vehiclecolor\ as\ parameter.There\ is\ a\ display\ method\ that\ gives\ \r\n\ vehicleid,vehiclename,vehicleweight,vehiclecolor,verhiclespeed\ as\ output\ and\ display\ empty\ \r\n\ message\ if\ vehicleweight\ is\ empty.\r\n\ @author\ (Harendra\ Jagari)\r\n\ @version\ (18)\r\n
+comment1.params=vehiclename\ vehicleweight\ vehiclecolor\ vehicleid
+comment1.target=Vehicle(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\nThe\ constructor\ accepts\ four\ parameters\:vehiclename,vehicleweight,vehiclecolour,vehicleid\r\nThe\ values\ of\ these\ parameters\ are\ initialized\ in\ instance\ variables\:vehiclename,\r\nvehicleweight,vehiclecolour,vehicleid.\r\n
+comment2.params=
+comment2.target=java.lang.String\ get_vehiclename()
+comment2.text=\r\n\ There\ is\ a\ accessor\ method\ for\ vehiclename,vehicleweight,vehiclespeed,vehiclecolor,vehicleid\ which\ \r\n\ returns\ vehiclename,vehicleweight,vehiclespeed,vehiclecolor,vehicleid\ respectively.\r\n
+comment3.params=
+comment3.target=java.lang.String\ get_vehicleweight()
+comment4.params=
+comment4.target=java.lang.String\ get_vehiclespeed()
+comment5.params=
+comment5.target=int\ get_vehicleid()
+comment6.params=
+comment6.target=java.lang.String\ get_vehiclecolor()
+comment7.params=vehiclespeed
+comment7.target=void\ set_vehiclespeed(java.lang.String)
+comment7.text=\r\n\ There\ is\ a\ setters\ method\ for\ vehiclespeed\ and\ vehiclecolor\ which\ initializes\ the\ value\r\n\ to\ instance\ variable\ vehiclespeed\ and\ vehiclecolor\ respectively.\r\n
+comment8.params=vehiclecolor
+comment8.target=void\ set_vehiclecolor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+comment9.text=\r\n\ There\ is\ a\ display\ method\ which\ displays\ the\ vehicleid,vehiclename,vehicleweight,vehiclecolor\r\n\ and\ vehiclespeed\ but\ if\ \ vehicleweight\ is\ empty\ it\ shows\ empty\ message.\r\n
+numComments=10
